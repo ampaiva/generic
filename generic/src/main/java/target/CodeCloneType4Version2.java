@@ -1,4 +1,4 @@
-package com.ampaiva.generic.controller;
+package target;
 
 import java.sql.Connection;
 import java.sql.ResultSet;

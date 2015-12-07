@@ -11,6 +11,10 @@ import org.junit.Test;
 
 import com.ampaiva.generic.model.Project;
 
+import target.CodeCloneType4;
+import target.CodeCloneType4Version2;
+import target.OriginalCode;
+
 public class CodeCloneTest {
 
     private static final String PU_NAME = "genericTEST";
